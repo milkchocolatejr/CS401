@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/minimum-operations-to-make-the-array-increasing/
 class Solution {
     public int minOperations(int[] nums) {
         int operations = 0;
