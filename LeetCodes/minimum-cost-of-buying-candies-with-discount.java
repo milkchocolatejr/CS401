@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount
 class Solution {
     public int minimumCost(int[] cost) {
         int minCost = 0;
