@@ -1,3 +1,4 @@
+// https://leetcode.com/problems/can-place-flowers
 class Solution {
     public boolean canPlaceFlowers(int[] flowerbed, int n) {
         int planted = 0;
